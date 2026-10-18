@@ -1,0 +1,13 @@
+{
+ "rows_raw": 1338440,
+ "dup_removed": 0,
+ "nan_removed": 0,
+ "speed_outliers_removed": 82,
+ "gps_jumps_removed": 33,
+ "boats_dropped_short": 63,
+ "rows_clean": 1335173,
+ "races_skipped_bad_course": [
+  "VI Trofeo Club Marítimo Melilla Ciudad del Deporte clase Optimist / Memorial Jose Manuel Calzado"
+ ],
+ "races": 15
+}
